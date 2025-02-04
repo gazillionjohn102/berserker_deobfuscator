@@ -5,7 +5,7 @@ A simple but effective deobfuscator for berserker. You can find a link to the be
  
 
 ## How to use
-
+asd
 To deobfuscate a file, in your terminal run,
 
 ```bash
